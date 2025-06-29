@@ -1,5 +1,4 @@
 # Test Repos For Dev Count
-# Spirng6 and SpringBoot3 Guide
 
 ## 1. Intro to Spring 6 and Spring Boot 3
 
